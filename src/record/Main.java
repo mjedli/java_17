@@ -10,7 +10,7 @@ public class Main {
         
         Rectangle r2 = new Rectangle(-5.9,9);
         double result1 = r2.getArea(); // 0.0
-        System.out.println(result1);
+        System.out.println(result1);  
 
     }
 
